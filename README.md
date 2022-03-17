@@ -1,4 +1,4 @@
-- 👋 初めまして！私の名前はシュクルエリミです・
+- 👋 おはようございます。！私の名前はシュクルエリミです・
 - 👀 I’m interested in Languages,Computer Science,Music and anything that doesn't require design/imagination
 - 🌱 I’m currently learning Japanese,Russian,Python,Javascript,Machine Learning etc.
 - 💞️ I’m looking to collaborate on nobody for now
