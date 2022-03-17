@@ -1,5 +1,5 @@
-- 👋 Greetings inferiors, I am PennyWiper.(I don't have any intention to reveal my name for now)
+- 👋 初めまして！私の名前はシュクルエリミです・
 - 👀 I’m interested in Languages,Computer Science,Music and anything that doesn't require design/imagination
 - 🌱 I’m currently learning Japanese,Russian,Python,Javascript,Machine Learning etc.
 - 💞️ I’m looking to collaborate on nobody for now
-- 📫 How to reach me ?- with a pigeon or a fire smoke maybe. since I don't have any social media account. It will be very difficult for you
+- 📫 How to reach me ?- Only way is sending mail for now.
