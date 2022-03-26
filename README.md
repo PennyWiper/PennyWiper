@@ -1,4 +1,4 @@
-- 👋 おはようございます。！私の名前はシュクルエリミです・
+- 👋 おはようございます。！私の名前はシュクルエリミです・今はイスタンブール文化大学の計算機科学専攻の三年生でございます。
 - 👀 I’m interested in Languages,Computer Science,Music and anything that doesn't require design/imagination
 - 🌱 I’m currently learning Japanese,Russian,Python,Javascript,Machine Learning etc.
 - 💞️ I’m looking to collaborate on nobody for now
