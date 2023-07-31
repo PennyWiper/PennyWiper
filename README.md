@@ -1,4 +1,4 @@
-- 👋 Greetings, My name is "Şükrü Erim Sinal",I am currently 4'th year Computer Science Engineering student in Istanbul Culture University。
+- 👋 Greetings, My name is "Şükrü Erim Sinal",I am a graduated Computer Science Engineer as of july 2023。
 - 👀 I’m interested in Languages,Computer Science,Music and anything that doesn't require  too much design/imagination
 - 🌱 I’m currently learning Japanese,Python,Machine Learning etc.
 - 💞️ I’m looking to collaborate on nobody for now
